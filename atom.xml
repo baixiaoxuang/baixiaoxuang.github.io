@@ -6,7 +6,7 @@
   <link href="https://baixiaoxuang.github.io/atom.xml" rel="self"/>
   
   <link href="https://baixiaoxuang.github.io/"/>
-  <updated>2021-07-28T19:46:02.000Z</updated>
+  <updated>2021-07-29T07:04:10.000Z</updated>
   <id>https://baixiaoxuang.github.io/</id>
   
   <author>
@@ -17,31 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>我的世界</title>
+    <title>hello-woeld</title>
     <link href="https://baixiaoxuang.github.io/posts/d2a40ed8.html"/>
     <id>https://baixiaoxuang.github.io/posts/d2a40ed8.html</id>
     <published>2021-07-28T19:45:53.000Z</published>
-    <updated>2021-07-28T19:46:02.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://baixiaoxuang.github.io/posts/4a17b156.html"/>
-    <id>https://baixiaoxuang.github.io/posts/4a17b156.html</id>
-    <published>2021-07-28T17:43:43.490Z</published>
-    <updated>2021-07-28T19:47:12.000Z</updated>
+    <updated>2021-07-29T07:04:10.000Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -53,6 +33,82 @@
     
     
     
+    <category term="博客" scheme="https://baixiaoxuang.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="模板" scheme="https://baixiaoxuang.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不删档测试</title>
+    <link href="https://baixiaoxuang.github.io/posts/d2a40ed8.html"/>
+    <id>https://baixiaoxuang.github.io/posts/d2a40ed8.html</id>
+    <published>2021-07-28T19:45:53.000Z</published>
+    <updated>2021-07-29T08:36:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="规划"><a href="#规划" class="headerlink" title="规划"></a>规划</h1><p>官方于今年暑假开放《黎明觉醒》不删档测试，具体时间以官方通知为准</p><h2 id="安排情况"><a href="#安排情况" class="headerlink" title="安排情况"></a>安排情况</h2><h3 id="服务器"><a href="#服务器" class="headerlink" title="服务器"></a>服务器</h3><p>2区 </p><h3 id="营地名字"><a href="#营地名字" class="headerlink" title="营地名字"></a>营地名字</h3><p>漓落</p><h3 id="营地类型"><a href="#营地类型" class="headerlink" title="营地类型"></a>营地类型</h3><p>休闲</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="公会" scheme="https://baixiaoxuang.github.io/categories/%E5%85%AC%E4%BC%9A/"/>
+    
+    
+    <category term="发展" scheme="https://baixiaoxuang.github.io/tags/%E5%8F%91%E5%B1%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客模板</title>
+    <link href="https://baixiaoxuang.github.io/posts/d2a40ed8.html"/>
+    <id>https://baixiaoxuang.github.io/posts/d2a40ed8.html</id>
+    <published>2021-07-28T19:45:53.000Z</published>
+    <updated>2021-07-29T07:03:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>#标题1 （大）<br>##标题2<br>###标题3<br>####标题4 （小）<br>以此类推 最高标题6</p><p>//加粗<br><strong>加粗</strong><br>//代码高亮显示<br>==高亮==<br>//删除线<br><del>删除线</del><br>//斜体<br>  <em>斜体内容</em></p><p>  //引用语法</p><blockquote><p>作者：泽</p><blockquote><p>作者：泽</p><blockquote><p>作者：泽</p></blockquote></blockquote></blockquote><h2 id="分割线"><a href="#分割线" class="headerlink" title="//分割线"></a>//分割线</h2><hr><p>[超链接名字]（<a href="https://gihub.com/yerenping%EF%BC%89">https://gihub.com/yerenping）</a></p><p>//无需列表</p><ul><li><p>目录1  -后加空格</p></li><li><p>目录2</p></li><li><p>目录3<br>//有序列表<br>1+. +名称</p><p>右键》插入》表格<br>用代码过于复杂不推荐使用</p></li></ul><p>//在线图片与本地图片<br>![照片名子]（/image/me.png）</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="博客" scheme="https://baixiaoxuang.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="模板" scheme="https://baixiaoxuang.github.io/tags/%E6%A8%A1%E6%9D%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>【漓 落 群 聊 及 营 地 规 则】</title>
+    <link href="https://baixiaoxuang.github.io/posts/d2a40ed8.html"/>
+    <id>https://baixiaoxuang.github.io/posts/d2a40ed8.html</id>
+    <published>2021-06-24T16:00:00.000Z</published>
+    <updated>2021-07-29T08:33:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="规则通知"><a href="#规则通知" class="headerlink" title="规则通知"></a>规则通知</h1><p>规则仅供参考，具体情况由会长及管理通知为主</p><h2 id="群聊"><a href="#群聊" class="headerlink" title="群聊"></a>群聊</h2><p>本群允许各类聊天，主题必须健康。</p><p>聊天内容不得包含任何恶意人身攻击行为,在群里漫骂他人，出粗言者</p><p>本群不提倡政治话题出现，所有管理员均有权随时终止政治话题。</p><p>文明聊天，友善待人，懂得尊重他人以及自己.</p><p>群内未经管理员允许,不得擅自发布广告宣传，或不明链接(特别是带有病毒性的网站)</p><p>本群允许发图，图片内容健质，不得有反动、色惰等内容,不可恶意刷屏。</p><h2 id="营地"><a href="#营地" class="headerlink" title="营地"></a>营地</h2><p>营地规则：</p><p>1.每日日常活跃度必须到达100及100以上</p><p>2.每日营地活动必须上线，群里会发送该周的日常表</p><p>3.下线时间超过24小时，周日常活跃度不够，辐射岛积分不够等会进行不定期清除，特殊情况由会长和理事说明</p><h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>感谢大家的支持和关注!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="公会" scheme="https://baixiaoxuang.github.io/categories/%E5%85%AC%E4%BC%9A/"/>
+    
+    
+    <category term="公会 | 规则" scheme="https://baixiaoxuang.github.io/tags/%E5%85%AC%E4%BC%9A-%E8%A7%84%E5%88%99/"/>
     
   </entry>
   
