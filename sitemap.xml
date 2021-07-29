@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://baixiaoxuang.github.io/posts/d2a40ed8.html</loc>
+    <loc>https://baixiaoxuang.github.io/posts/a8bdb7ae.html</loc>
+    
+    <lastmod>2021-07-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baixiaoxuang.github.io/posts/679a0a99.html</loc>
     
     <lastmod>2021-07-29</lastmod>
     
@@ -31,20 +38,6 @@
   
   <url>
     <loc>https://baixiaoxuang.github.io/List/galleries/index.html</loc>
-    
-    <lastmod>2021-07-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baixiaoxuang.github.io/posts/d2a40ed8.html</loc>
-    
-    <lastmod>2021-07-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baixiaoxuang.github.io/posts/d2a40ed8.html</loc>
     
     <lastmod>2021-07-29</lastmod>
     
@@ -135,6 +128,13 @@
   </url>
   
   <url>
+    <loc>https://baixiaoxuang.github.io/List/music/index.html</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://baixiaoxuang.github.io/List/movies/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
@@ -149,21 +149,7 @@
   </url>
   
   <url>
-    <loc>https://baixiaoxuang.github.io/List/music/index.html</loc>
-    
-    <lastmod>2021-06-13</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://baixiaoxuang.github.io/List/galleries/%E4%BA%8C%E6%AC%A1%E5%85%83%E9%A3%8E/index.html</loc>
-    
-    <lastmod>2021-06-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://baixiaoxuang.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -177,7 +163,7 @@
   </url>
   
   <url>
-    <loc>https://baixiaoxuang.github.io/List/galleries/%E5%91%86%E8%90%8C%E7%8C%AB%E5%92%AA/index.html</loc>
+    <loc>https://baixiaoxuang.github.io/List/galleries/%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -191,7 +177,14 @@
   </url>
   
   <url>
-    <loc>https://baixiaoxuang.github.io/List/galleries/%E7%92%80%E7%92%A8%E6%98%9F%E7%A9%BA/index.html</loc>
+    <loc>https://baixiaoxuang.github.io/List/galleries/%E5%91%86%E8%90%8C%E7%8C%AB%E5%92%AA/index.html</loc>
+    
+    <lastmod>2021-06-13</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://baixiaoxuang.github.io/List/galleries/%E5%8A%A8%E6%BC%AB%E4%BA%BA%E7%89%A9/index.html</loc>
     
     <lastmod>2021-06-13</lastmod>
     
@@ -207,7 +200,7 @@
 
   
   <url>
-    <loc>https://baixiaoxuang.github.io/tags/%E6%A8%A1%E6%9D%BF/</loc>
+    <loc>https://baixiaoxuang.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2021-07-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
